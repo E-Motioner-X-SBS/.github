@@ -1,14 +1,14 @@
 <div align="center">
   <img src="../E-Motioner-X-SBS-logo.svg" width="180" alt="E-Motioner-X-SBS Logo"/>
   <h1>E-Motioner-X-SBS</h1>
-  <p><em>Computational Biophysics · ML · Quantum Chemistry · IISER Kolkata</em></p>
+  <p><em>Computational Chemistry · Computational Biophysics · ML · Information Retrieval · IISER Kolkata</em></p>
 </div>
 
 ---
 
 ## About the Researcher
 
-**Shuvam Banerji Seal** is a BS-MS student at the Indian Institute of Science Education and Research (IISER), Kolkata, majoring in Chemistry with a minor in Computer Science (CGPA: 8.2). His research bridges quantum chemistry, biophysics, and machine learning — with a focus on computing molecular Hamiltonians, building contact maps of biomolecular systems, and training deep learning models for protein folding prediction.
+**Shuvam Banerji Seal** is a BS-MS student at the Indian Institute of Science Education and Research (IISER), Kolkata, majoring in Computational Chemistry with a minor in Computational Science (domain: Information Retrieval) (CGPA: 8.2). His research bridges computational chemistry, biophysics, and machine learning — with a focus on computing molecular Hamiltonians, building contact maps of biomolecular systems, and training deep learning models for protein folding prediction.
 
 Portfolio: https://shuvam-banerji-seal.github.io/ | GitHub: https://github.com/Shuvam-Banerji-Seal | CV: https://shuvam-banerji-seal.github.io/My-CV | Blog: https://e-motioner-x-sbs.github.io
 
