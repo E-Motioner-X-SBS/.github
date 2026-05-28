@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../E-Motioner-X-SBS-logo.svg" width="180" alt="E-Motioner-X-SBS Logo"/>
+  <img src="../E-Motioner-X-SBS-logo.webp" width="180" alt="E-Motioner-X-SBS Logo"/>
   <h1>E-Motioner-X-SBS</h1>
   <p><em>Computational Chemistry · Computational Biophysics · ML · Information Retrieval · IISER Kolkata</em></p>
 </div>
